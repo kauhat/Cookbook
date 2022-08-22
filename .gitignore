@@ -1,0 +1,7 @@
+/.obsidian/
+
+/.vscode/**/*
+!/.vscode/extensions.json
+!/.vscode/settings.json
+
+desktop.ini

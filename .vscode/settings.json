@@ -1,0 +1,10 @@
+{
+    "editor.wordWrapColumn": 80,
+
+    "[markdown]":{
+        "editor.wordWrap": "wordWrapColumn",
+    },
+    "[cook]":{
+        "editor.wordWrap": "wordWrapColumn",
+    },
+}
