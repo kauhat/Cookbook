@@ -2,17 +2,17 @@
 
 ## Ingredients
 
-* 450 – 500g chicken breast fillets or chunks
-* 1 large or two small onions
-* 3 thick rashers of bacon cut into bite-size pieces or small pack of diced bacon
-* 1 pack of button mushrooms
-* 1 tablespoon of olive oil or chicken fat
-* 2 dessert spoons of flour
-* 12 fl oz chicken stock (stock cube dissolved in 12 fl oz of hot water)
-* Small pinch of thyme
-* Ground pepper to taste
-* Sheet of ready-made puff pasty, preferably all-butter
-* Beaten egg
+- 450 – 500g chicken breast fillets or chunks
+- 1 large or two small onions
+- 3 thick rashers of bacon cut into bite-size pieces or small pack of diced bacon
+- 1 pack of button mushrooms
+- 1 tablespoon of olive oil or chicken fat
+- 2 dessert spoons of flour
+- 12 fl oz chicken stock (stock cube dissolved in 12 fl oz of hot water)
+- Small pinch of thyme
+- Ground pepper to taste
+- Sheet of ready-made puff pasty, preferably all-butter
+- Beaten egg
 
 ## Method
 
